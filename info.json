@@ -1,0 +1,24 @@
+{
+    "name": "Daniel Edminster",
+    "website": "https://daniel-edminster.github.io/",
+    "linkedin": "https://www.linkedin.com/in/daniel-edminster/",
+    "github": "daniel-edminster",
+    "email": "daniel.edminster@outlook.com",
+    "resume": "https://daniel-edminster.github.io/assets/Daniel-Edminster-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PHP",
+        "MySQL",
+        "HTML5",
+        "CSS"
+    ],
+    "otherSkills": [
+        "Audio Production",
+        "Systems Administration",
+        "Guitar"
+    ]
+}

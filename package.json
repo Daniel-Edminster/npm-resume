@@ -1,0 +1,29 @@
+{
+  "name": "npm-resume-de",
+  "version": "1.0.2",
+  "description": "Daniel's resume in CLI format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+	"daniel-resume": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Edminster/npm-resume.git"
+  },
+  "keywords": [
+    "Daniel",
+    "Resume",
+    "JSON",
+    "npm",
+    "node"
+  ],
+  "author": "daniel-edminster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Edminster/npm-resume/issues"
+  },
+  "homepage": "https://github.com/Daniel-Edminster/npm-resume#readme"
+}
