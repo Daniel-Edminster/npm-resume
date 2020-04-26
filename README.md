@@ -1,7 +1,8 @@
 # npm-resume - Daniel Edminster
 This little project prints a CLI version of my resume to your terminal.
 <hr>
-#### Instructions:
+
+### Instructions:
 
 1. Retrieve from npm package registry. 
     ```
